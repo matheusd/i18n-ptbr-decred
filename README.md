@@ -5,12 +5,15 @@ Tabela com strings para tradução de produtos da Decred.
 
 ## Gêneros
 
+```
 a decred
 o hash
 o dcrctl
+```
 
 ## Traduções Específicas
 
+```
 expiry = expiração
 ticket fee = taxa de ticket
 tx fee = taxa de transação
@@ -28,9 +31,11 @@ rescan = reescanear
 issues = problemas
 agenda = agenda
 voters = eleitores
+```
 
 ## Sem tradução
 
+```
 script
 seed 
 seed phrase 
@@ -48,5 +53,6 @@ mainnet
 testnet 
 bit flags
 salt
+```
 
 
